@@ -1,0 +1,197 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"grid",
+				"grid-column\tproperty"
+			],
+			[
+				"ba",
+				"background-color\tproperty"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"",
+				"About"
+			]
+		],
+		"width": 0.0
+	},
+	"console":
+	{
+		"height": 136.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/Users/lavrentiyyampurov/Documents/ПРОГРАММИРОВАНИЕ_2/untitled.html",
+		"/Users/lavrentiyyampurov/Documents/ПРОГРАММИРОВАНИЕ_2/untitled2.html",
+		"/Users/lavrentiyyampurov/Documents/ПРОГРАММИРОВАНИЕ_2/untitled3.html",
+		"/Users/lavrentiyyampurov/Documents/ПРОГРАММИРОВАНИЕ_2/untitled5.html",
+		"/Users/lavrentiyyampurov/Documents/ПРОГРАММИРОВАНИЕ_2/script5.js",
+		"/Users/lavrentiyyampurov/Documents/ПРОГРАММИРОВАНИЕ_2/script3.js",
+		"/Users/lavrentiyyampurov/Documents/ПРОГРАММИРОВАНИЕ_2/курсовая.js",
+		"/Users/lavrentiyyampurov/Documents/ПРОГРАММИРОВАНИЕ_2/1/script.js",
+		"/Users/lavrentiyyampurov/Documents/ПРОГРАММИРОВАНИЕ_2/script2.js",
+		"/Users/lavrentiyyampurov/Documents/шарики/shariki.js",
+		"/Users/lavrentiyyampurov/Documents/папка/script3.js",
+		"/Users/lavrentiyyampurov/Documents/папка/untitled.html",
+		"/Users/lavrentiyyampurov/Documents/polinom/polinom.html",
+		"/Users/lavrentiyyampurov/Documents/polinom.html",
+		"/Users/lavrentiyyampurov/Documents/polinom2",
+		"/Users/lavrentiyyampurov/Documents/калькулятор/script2.js",
+		"/Users/lavrentiyyampurov/Documents/калькулятор/untitled.html",
+		"/Users/lavrentiyyampurov/Documents/калькулятор/scriptik.js",
+		"/Users/lavrentiyyampurov/Documents/index.html",
+		"/Users/lavrentiyyampurov/Documents/untitled2.js",
+		"/Users/lavrentiyyampurov/Documents/untitled1.html"
+	],
+	"find":
+	{
+		"height": 26.0
+	},
+	"find_in_files":
+	{
+		"height": 101.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": true,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": false
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 26.0
+	},
+	"input":
+	{
+		"height": 0.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "flappy_bird_bg.sublime-project",
+	"replace":
+	{
+		"height": 48.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 150.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
